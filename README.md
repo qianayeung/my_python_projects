@@ -63,7 +63,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Calculators -->
 </details>
- <summary>Calculators</summary>
+  <summary>Calculators</summary>
      <ol>
  <ul>
      <li><a 
