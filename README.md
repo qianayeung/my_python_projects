@@ -47,7 +47,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Mortisation Plan Calculator -->
 <details>
- <summary>Mortisation Plan Calculator</summary><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Mortisation Plan Calculator</a>
+ <summary>Mortisation Plan Calculator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Mortisation Plan Calculator</a></li>
  <ol>
  <ul>
     <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li> 
