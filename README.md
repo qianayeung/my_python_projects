@@ -74,7 +74,11 @@ This repository contains examples of Python I've written for learning.
  <ol>
  <ul>
     <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li> 
-
+    <li>Added def get_input(prompt, expected_type) to confirm type checking and validation</li>
+    <li>Added while if function to allow the validation processing and improve user experience</li> 
+    <li>Used input() to gater user inputs</li>
+    <li>Used try: to calculate the EMI(equated_monthly_installments)
+<details>
 
 <!-- CONTACT -->
 ## Contact
