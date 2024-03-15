@@ -1,0 +1,49 @@
+"""
+Programme to calculate the monthly mortgage/amortisation, given
+- Principal borrowed amount
+- Rate of interest per annum
+- Years to repay the loan
+"""
+
+def equated_monthly_installments(principal: float, rate_per_annum: float, years_to_repay: int) -> float:
+    """
+    Calculate the equated monthly installment (EMI) for a loan.
+    """
+    if principal <= 0:
+        raise Exception("Principal borrowed must be > 0")
+    if rate_per_annum < 0:
+        raise Exception("Rate of interest must be >= 0")
+    if years_to_repay <= 0 or not isinstance(years_to_repay, int):
+        raise Exception("Years to repay must be an integer > 0")
+
+    rate_per_month = rate_per_annum / 12
+    number_of_payments = years_to_repay * 12
+    calculated_mortisation = principal * rate_per_month * (1 + rate_per_month) ** number_of_payments / ((1 + rate_per_month) ** number_of_payments - 1)
+
+    return calculated_mortisation
+
+def get_input(prompt, expected_type):
+    """
+    Generic input function with type checking and validation.
+    """
+    while True:
+        try:
+            value = expected_type(input(prompt))
+            if (expected_type is float or expected_type is int) and value <= 0:
+                raise ValueError
+            return value
+        except ValueError:
+            print(f"Please enter a valid {expected_type.__name__}.")
+
+# Gather user inputs
+principal = get_input("Enter the principal amount (e.g., 25000): ", float)
+rate_per_annum = get_input("Enter the rate per annum as a decimal (e.g., 0.05 for 5%): ", float)
+years_to_repay = get_input("Enter the years to repay the loan (e.g., 15): ", int)
+
+# Calculate the EMI
+try:
+    emi = equated_monthly_installments(principal, rate_per_annum, years_to_repay)
+    print(f"The monthly EMI is: {emi:.2f}")
+except Exception as e:
+    print(e)
+
