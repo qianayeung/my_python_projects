@@ -57,7 +57,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Used try: to calculate the EMI(equated_monthly_installments)
 <details>
 
-</p>
+     </p>
 </div>
 
 <!DOCTYPE html> 
