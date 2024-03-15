@@ -66,10 +66,10 @@ Thanks for checking my Python portfolio, this repository contains examples all w
  <summary>Calculators</summary>
      <ol>
  <ul>
-     <li>Calculator 1</li><a 
-href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201">Calculator 1</a>
-     <li>Calculator 2</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%202">Calculator 2</a>
-     <li>Calculator 3</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator_while_loop_recursion">Calculator 3</a>
+     <li><a 
+href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201">Calculator 1</a></li>
+     <li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%202">Calculator 2</a></li>
+     <li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator_while_loop_recursion">Calculator 3</a></li>
 
 
 <!-- CONTACT -->
