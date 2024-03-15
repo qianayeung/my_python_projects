@@ -4,7 +4,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
-     <a href="https://github.com/qianayeung/my-SQL-portfolio](https://github.com/qianayeung/my_python_projects](https://github.com/qianayeung/my_python_projects">
+     <a href="https://github.com/qianayeung/my_python_projects/blob/main/embedded%20file%20icon.png">
          <img src="embedded file icon.png" alt="Logo" width="80" height="80"> 
 
   </a>
