@@ -33,23 +33,6 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Data Science Job Salary -->
 <details>
- <summary>Data Science Job Salary</summary>
- <ol>
- <ul>
-    <li>Showcased the table of different data science jobs & salary</li>
-    <li>Using SELECT * FROM to extract data based on job_title salary in a descending order</li>
-    <li>Using SELECT AS to rename job_title salary as current salary, salary_currency as currency</li>
-    <li>Specifying multiple values using SELECT * FROM and WHERE IN to extract Data Job Salary that falls on employment_type of Data Analyst, Data Scientist and Data Engineer</li>
-     
-  </details>
-
-</p>
-</div>
-<!DOCTYPE html> 
-<html>
-<body>
-<!-- Data Science Job Salary -->
-<details>
 <summary>Pandas project - Job Listings In Africa></summary>
    <li>Pandas Project - Job Listings In Africa</li>
 <a target="_blank" href="https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F865499d1-6c23-4a91-ab73-2a306a933de1%2Fversions%2Fba75769f-4eb2-4548-8187-d7f17ae75fc1%2Ffiles%2Fpandas.ipynb"><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a>
@@ -67,7 +50,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
  <summary>Mortisation Plan Calculator</summary>
  <ol>
  <ul>
-    <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li> 
+    <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Mortisation Plan Calculator</a> 
     <li>Added def get_input(prompt, expected_type) to confirm type checking and validation</li>
     <li>Added while if function to allow the validation processing and improve user experience</li> 
     <li>Used input() to gater user inputs</li>
