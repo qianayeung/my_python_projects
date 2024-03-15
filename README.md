@@ -59,8 +59,6 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 
  </details>
 <!DOCTYPE html> 
-<html>
-<body>
 <!-- Calculators -->
 <summary>Calculators</summary>
      <ul>
