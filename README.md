@@ -54,12 +54,15 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Added def get_input(prompt, expected_type) to confirm type checking and validation</li>
     <li>Added while if function to allow the validation processing and improve user experience</li> 
     <li>Used input() to gater user inputs</li>
-    <li>Used try: to calculate the EMI(equated_monthly_installments)</li></ul>
+    <li>Used try: to calculate the EMI(equated_monthly_installments)</li>
 
 
  </details>
 <!DOCTYPE html> 
+<html>
+<body>
 <!-- Calculators -->
+</details>
 <summary>Calculators</summary>
      <ul>
      <li>Calculator 1</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201">Calculator 1</a></li>
