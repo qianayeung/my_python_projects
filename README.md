@@ -5,7 +5,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <br />
 <div align="left">
      <a href="https://github.com/qianayeung/my-SQL-portfolio](https://github.com/qianayeung/my_python_projects](https://github.com/qianayeung/my_python_projects">
-         <img src="embedded file icon.png" alt="Logo" width="80" height="80">
+         <img src="embedded file icon.png" alt="Logo" width="80" height="80"> 
 
   </a>
 
