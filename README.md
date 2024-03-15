@@ -20,7 +20,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Morse Code Translator -->
 <details>
-  <summary>Morse Code Translator</summary>
+  <summary>Morse Code Translator</summary><a href="https://github.com/qianayeung/my_python_projects/blob/main/Morse%20Code%20Translator">Morse Code Translator</a>
   <ol>
   <ul>
       <li>Morse Code translator that encrypts the plain text you input</li>
@@ -47,10 +47,10 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Mortisation Plan Calculator -->
 <details>
- <summary>Mortisation Plan Calculator</summary>
+ <summary>Mortisation Plan Calculator</summary><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Mortisation Plan Calculator</a>
  <ol>
  <ul>
-    <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Mortisation Plan Calculator</a> 
+    <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li> 
     <li>Added def get_input(prompt, expected_type) to confirm type checking and validation</li>
     <li>Added while if function to allow the validation processing and improve user experience</li> 
     <li>Used input() to gater user inputs</li>
