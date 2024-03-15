@@ -55,7 +55,6 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Added while if function to allow the validation processing and improve user experience</li> 
     <li>Used input() to gater user inputs</li>
     <li>Used try: to calculate the EMI(equated_monthly_installments)
-<details>
 
      </p>
 </div>
