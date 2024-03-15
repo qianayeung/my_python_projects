@@ -57,17 +57,15 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Used try: to calculate the EMI(equated_monthly_installments)</li></ul>
 
 
-
-     </p>
+  </p>
 </div>
 <!DOCTYPE html> 
 <html>
 <body>
 <!-- Calculators -->
-<details>
 <li><summary>Calculators</summary></li>
      <li>Calculator 1</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201">Calculator 1</a></li>
-     <li>Calculator 2</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%202">Calculator 2</a>
+     <li>Calculator 2</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%202">Calculator 2</a></li>
      <li>Calculator 3</li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator_while_loop_recursion">Calculator 3</a></li>
 </details>
 
