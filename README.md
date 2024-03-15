@@ -56,9 +56,8 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Used input() to gater user inputs</li>
     <li>Used try: to calculate the EMI(equated_monthly_installments)
 
-     </p>
+</p>
 </div>
-
 <!DOCTYPE html> 
 <html>
 <body>
