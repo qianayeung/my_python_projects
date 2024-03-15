@@ -1,5 +1,6 @@
 <h2>Description</h2>
 Thanks for checking my Python portfolio, this repository contains examples all written by myself. 
+<br />
 
 <!-- PROJECT LOGO -->
 <br />
