@@ -41,7 +41,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
     <li>Specifying multiple values using SELECT * FROM and WHERE IN to extract Data Job Salary that falls on employment_type of Data Analyst, Data Scientist and Data Engineer</li>
      
   </details>
-<br />
+
 <!DOCTYPE html> 
 <html>
 <body>
