@@ -18,7 +18,9 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!DOCTYPE html> 
 <html>
 <body>
-<!-- Morse Code Translator -->
+<!-- Morse Code Translator --><h3>Difficulty Level</h3>
+<span class="fas fa-heart"></span><span class="far fa-heart"></span><span class="far fa-heart"></span><span class="far fa-heart"></span> class="far fa-heart"></span> 
+     
 <details>
   <summary>Morse Code Translator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Morse%20Code%20Translator">Morse Code Translator</a></li>
       <li>Morse Code translator that encrypts the plain text you input</li>
