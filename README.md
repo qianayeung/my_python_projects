@@ -106,4 +106,7 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+- **Difficulty Level** -  ★☆☆☆☆
+- **Difficulty Level** -  ★★☆☆☆
+- **Difficulty Level** -  ★★★☆☆
+- **Difficulty Level** -  ★★★★★
