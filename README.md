@@ -18,7 +18,8 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!DOCTYPE html> 
 <html>
 <body>
-<!-- Morse Code Translator --> **Difficulty Level** -  ★★★☆☆<div align="right">
+<!-- Morse Code Translator --> **Difficulty Level** -  ★★★☆☆
+     <div align="right">
 <details>
   <summary>Morse Code Translator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Morse%20Code%20Translator">Morse Code Translator</a></li>
       <li>Morse Code translator that encrypts the plain text you input</li>
