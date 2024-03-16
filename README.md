@@ -36,8 +36,6 @@ Thanks for checking my Python portfolio, this repository contains examples all w
      <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
      </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
   </p>
 </div>
 <!DOCTYPE html> 
@@ -67,6 +65,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
    <li>Pandas Project - University of Regina</li>
 <a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Faf35732d-735d-4ecf-8fb9-b1d125038a23%2Fversions%2Fbcd6b4c8-e3e0-4965-9457-ded423dc958b%2Ffiles%2Fsalary.ipynb><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a></li>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   </details>
 <!DOCTYPE html> 
@@ -103,7 +102,7 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<br />
 <!-- CONTACT -->
 ## Contact
 
