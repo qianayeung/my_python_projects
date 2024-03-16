@@ -71,6 +71,24 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
      <li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%202">Calculator 2</a>
      <li><a href="https://github.com/qianayeung/my_python_projects/blob/main/calculator_while_loop_recursion">Calculator 3</a></li>
 
+</details>
+<!DOCTYPE html> 
+<html>
+<body>
+<!-- Amazon Product Availability Checker -->
+<details>
+  <summary>Amazon Product Availability Checker</summary>
+     <ol>
+ <ul>
+     <li>The code is a Python script for checking the availability of a product on Amazon and sending an email notification if the product is available.</li>
+     <li>It imports several libraries, including `lxml` for parsing HTML, `requests` for making HTTP requests, `schedule` for scheduling tasks, and `smtplib` for sending emails<li>
+     <li>The script defines functions for checking the availability of a product (`check`) and sending an email (`sendemail`)</li>
+     <li> It also defines a function (`ReadAsin`) to read the product ID and URL from Amazon and call the `check` function to check availability</li>
+     <li>The script schedules the `ReadAsin` function to run every minute using the `schedule` library</li>
+     <li>Inside the `ReadAsin` function, it checks the availability of a specific product on Amazon and sends an email if the product is available</li>
+     <li>The email configuration, including sender email, receiver email, and password, is specified in the script</li>
+     <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
+
 
 <!-- CONTACT -->
 ## Contact
