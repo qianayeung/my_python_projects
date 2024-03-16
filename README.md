@@ -18,7 +18,8 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!DOCTYPE html> 
 <html>
 <body>
-<!-- Morse Code Translator --><h3>Difficulty Level</h3>
+<!-- Morse Code Translator -->
+     <h3>Difficulty Level</h3>
 <span class="fas fa-heart"></span><span class="far fa-heart"></span><span class="far fa-heart"></span><span class="far fa-heart"></span> class="far fa-heart"></span> 
      
 <details>
