@@ -102,7 +102,12 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br />
+
+
+</details>
+<!DOCTYPE html> 
+<html>
+<body>
 <!-- CONTACT -->
 ## Contact
 
