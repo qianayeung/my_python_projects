@@ -89,17 +89,17 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
      <li>The email configuration, including sender email, receiver email, and password, is specified in the script</li>
      <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
 
-</p>
-</div>
+     </details>
+<br />
 
-<!DOCTYPE html> 
-<html>
-<body>
 <!-- CONTACT -->
 ## Contact
 
 Qiana Yeung - [@Qiana Yeung]([https://twitter.com/your_username](https://twitter.com/QianaY15132)) - qianayang97@gmail.com
 
-Project Link: [https://github.com/qianayeung/my_python_projects]
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/qianayeung/my-SQL-portfolio)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
