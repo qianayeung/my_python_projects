@@ -20,6 +20,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <body>
 <!-- Morse Code Translator -->
 <details>
+     - **Difficulty Level** -  ★★★☆☆
   <summary>Morse Code Translator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Morse%20Code%20Translator">Morse Code Translator</a></li>
       <li>Morse Code translator that encrypts the plain text you input</li>
 </details>
@@ -106,7 +107,8 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-- **Difficulty Level** -  ★☆☆☆☆
-- **Difficulty Level** -  ★★☆☆☆
-- **Difficulty Level** -  ★★★☆☆
-- **Difficulty Level** -  ★★★★★
+#- **Difficulty Level** -  ★☆☆☆☆
+#- **Difficulty Level** -  ★★☆☆☆
+#- **Difficulty Level** -  ★★★☆☆
+#- **Difficulty Level** -  ★★★★☆
+#- **Difficulty Level** -  ★★★★★
