@@ -34,11 +34,12 @@ Thanks for checking my Python portfolio, this repository contains examples all w
      <li>Inside the `ReadAsin` function, it checks the availability of a specific product on Amazon and sends an email if the product is available</li>
      <li>The email configuration, including sender email, receiver email, and password, is specified in the script</li>
      <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
+     </details>
 
-</ul>
-  </ol>
-</details>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+  </p>
+</div>
 <!DOCTYPE html> 
 <html>
 <body>
