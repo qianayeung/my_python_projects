@@ -90,6 +90,9 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
      <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
 
 
+
+  </details>
+<br />
 <!-- CONTACT -->
 ## Contact
 
