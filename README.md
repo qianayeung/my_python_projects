@@ -89,7 +89,12 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
      <li>The email configuration, including sender email, receiver email, and password, is specified in the script</li>
      <li>It creates a MIME (Multipurpose Internet Mail Extensions) multipart message for the email, attaches a plain text body to the message, and sends the email using the SMTP protocol via Gmail's SMTP server</li>
 
+</p>
+</div>
 
+<!DOCTYPE html> 
+<html>
+<body>
 <!-- CONTACT -->
 ## Contact
 
