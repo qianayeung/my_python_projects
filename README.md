@@ -77,7 +77,7 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
 <body>
 <!-- Amazon Product Availability Checker -->
 <details>
-  <summary>Amazon Product Availability Checker</summary>
+  <summary>Amazon Product Availability Checker</summary><a href="https://github.com/qianayeung/my_python_projects/blob/main/Amazon%20Product%20Availability%20Check">Amazon Product Availability Checker</a>
      <ol>
  <ul>
      <li>The code is a Python script for checking the availability of a product on Amazon and sending an email notification if the product is available.</li>
