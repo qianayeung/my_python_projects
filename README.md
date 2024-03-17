@@ -114,7 +114,7 @@ href="https://github.com/qianayeung/my_python_projects/blob/main/calculator%201"
 
 Qiana Yeung - [@Qiana Yeung]([https://twitter.com/your_username](https://twitter.com/QianaY15132)) - qianayang97@gmail.com
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/qianayeung/my-SQL-portfolio)]
+Project Link: [https://github.com/qianayeung/my_python_projects]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
