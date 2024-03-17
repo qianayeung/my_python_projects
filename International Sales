@@ -1,2 +1,71 @@
 Link to my project
-https://anaconda.cloud/share/notebooks/55b4ad4d-9aad-4d49-abbe-dfe83611bf6c/overview
+<a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Fb102a5b0-f215-4a23-9565-99b6a7b54587%2Fversions%2Fef92c058-c6dd-47bf-93c5-e599f448764b%2Ffiles%2FInternational%20Sales.ipynb><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a>
+
+# Showcase the data
+import pandas as pd
+df = pd.read_csv('International sale Report.csv')
+pd.options.display.max_rows = 100
+print(df)
+
+# Sort out the most common product styles
+import pandas as pd
+
+# Assuming df is the DataFrame containing the data
+# Removing 'SHIPPING' column from the list
+filtered_df = df[df['Style'] != 'SHIPPING']
+
+# Extracting the top performing products
+most_common_codes = filtered_df['Style'].value_counts().head()
+
+print(most_common_codes)
+
+import pandas as pd
+
+# Assuming df is the DataFrame containing the data
+# Compute the value counts for the 'Style' column
+value_counts = df['Style'].value_counts()
+
+# Extracting the least performing product styles
+least_common_codes = value_counts.sort_values().head()
+
+print(least_common_codes)
+
+# sort_values(): This method sorts the values in the Series in ascending order by default. 
+
+# Sort out the top selling SKU
+import pandas as pd
+sku_transactions = pd.read_csv('International sale Report.csv')
+# Identify the most repeated customer
+most_repeated_customer = sku_transactions['CUSTOMER'].value_counts().idxmax()
+# Filter transactions for the most repeated customers
+customer_transactions = sku_transactions[sku_transactions['CUSTOMER'] == most_repeated_customer]
+# Extract product SKUs
+product_skus = customer_transactions['SKU']
+# Count frequency of each product SKU
+sku_frequency = product_skus.value_counts()
+# Sort product SKUs by frequency
+sorted_skus = sku_frequency.sort_values(ascending=False)
+
+# Display top-selling product SKUs
+top_skus = sorted_skus.head(10)  # Display top 10 SKUs
+print(top_skus)
+
+# Sort out the most popular size(s) among the customer orders
+import pandas as pd
+sales_transactions = pd.read_csv('International sale Report.csv')
+
+print(sales_transactions['Size'].unique())
+
+# Remove non-numeric values manually or with a cleaning function
+# Here, we'll remove any non-numeric values and replace sizes like 'S', 'M', 'L', 'XL', 'XXL' with corresponding numerical values
+size_mapping = {'S': 1, 'M': 2, 'L': 3, 'XL': 4, 'XXL': 5}
+sales_transactions['Size'] = sales_transactions['Size'].map(size_mapping)
+
+print(sales_transactions['Size'].dtype)
+sales_transactions.dropna(subset=['Size'], inplace=True)
+print(sales_transactions['Size'].dtype)
+
+# THE most popular size
+most_popular_size = sales_transactions['Size'].value_counts().idxmax()
+
+print("The most popular size is:", most_popular_size)
