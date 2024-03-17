@@ -26,7 +26,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
   <a href="https://github.com/qianayeung/my_python_projects/blob/main/Amazon%20Product%20Availability%20Check">Amazon Product Availability Checker</a>
   <ol>
     <ul>
-     <li>The code is a Python script for checking the availability of a product on Amazon and sending an email notification if the product is available.</li>
+     <li>The Python script is for checking the availability of a product on Amazon and sending an email notification if the product is available.</li>
      <li>It imports several libraries, including `lxml` for parsing HTML, `requests` for making HTTP requests, `schedule` for scheduling tasks, and `smtplib` for sending emails<li>
      <li>The script defines functions for checking the availability of a product (`check`) and sending an email (`sendemail`)</li>
      <li> It also defines a function (`ReadAsin`) to read the product ID and URL from Amazon and call the `check` function to check availability</li>
@@ -47,7 +47,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
   <summary>Sales Analysis</summary>
      <ol>
  <ul>
-      <li>International Sales Analysis</li><li><a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F2f6ebb42-31bc-43ad-ab10-8727a375d461%2Fversions%2F05de4b1a-6b54-4642-a444-31bb07941841%2Ffiles%2FInternational%20Sales.ipynb><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a></li>
+      <li>International Sales Analysis<li><a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F2f6ebb42-31bc-43ad-ab10-8727a375d461%2Fversions%2F05de4b1a-6b54-4642-a444-31bb07941841%2Ffiles%2FInternational%20Sales.ipynb><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a></li>
 </details>
         
   </p>
