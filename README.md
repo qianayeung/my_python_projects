@@ -42,9 +42,11 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <html>
 <body>
 <!-- Sales Analysis --> 
-     <div align="right">(<a>**Difficulty Level** -  ★★★☆☆</a>)</div>
+     <div align="right">(<a>**Difficulty Level** -  ★★★★☆</a>)</div>
 <details>
   <summary>Sales Analysis</summary>
+     <ol>
+ <ul>
       <li>International Sales Analysis</li><li><a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F2f6ebb42-31bc-43ad-ab10-8727a375d461%2Fversions%2F05de4b1a-6b54-4642-a444-31bb07941841%2Ffiles%2FInternational%20Sales.ipynb><img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415"/></a></li>
 </details>
         
