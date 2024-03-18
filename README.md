@@ -42,7 +42,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <html>
 <body>
 <!-- Sales Analysis -->
-     <div align="right">(<a>**Difficulty Level** -  ★★★★☆</a>)
+     <div align="right">(<a>**Difficulty Level** -  ★★★★☆</a>)</div>
 <details>
   <summary>Sales Analysis</summary>
      <ol>
