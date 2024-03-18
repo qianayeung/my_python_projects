@@ -69,3 +69,47 @@ print(sales_transactions['Size'].dtype)
 most_popular_size = sales_transactions['Size'].value_counts().idxmax()
 
 print("The most popular size is:", most_popular_size)
+
+# Sort out the most repeated customers by their names
+import pandas as pd
+import re
+sales_df = pd.read_csv('International sale Report.csv')
+
+# Check for non-boolean values in the 'CUSTOMER' column
+non_boolean_customers = sales_df[~sales_df['CUSTOMER'].str.contains(r'^[A-Za-z]', na=False, flags=re.IGNORECASE)]
+
+print("Non-boolean customers:")
+print(non_boolean_customers['CUSTOMER'])
+
+print("\f")
+
+# Remove rows with non-boolean values in the 'CUSTOMER' column
+cleaned_sales_df = sales_df.drop(non_boolean_customers.index)
+
+# Extracting the most repeated customers
+most_repeated_customers = cleaned_sales_df['CUSTOMER'].value_counts().head().reset_index()
+
+# Rename the columns for clarity
+most_repeated_customers.columns = ['Customer Name', 'Count']
+
+print("Most repeated customers after data cleaning:")
+print(most_repeated_customers)
+import pandas as pd
+
+# Read the CSV file into a DataFrame
+sales_df = pd.read_csv('International sale Report.csv')
+
+# Check for non-boolean values in the 'CUSTOMER' column
+non_boolean_customers = sales_df[~sales_df['CUSTOMER'].str.contains(r'^[A-Za-z]', na=False)]
+
+# Remove rows with non-boolean values in the 'CUSTOMER' column
+cleaned_sales_df = sales_df.drop(non_boolean_customers.index)
+
+# Extracting the most repeated customers
+most_repeated_customers = cleaned_sales_df['CUSTOMER'].value_counts().head().reset_index()
+
+# Rename the columns for clarity
+most_repeated_customers.columns = ['Customer Name', 'Count']
+
+print("Most repeated customers after data cleaning:")
+print(most_repeated_customers)
