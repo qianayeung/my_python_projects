@@ -41,7 +41,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!DOCTYPE html> 
 <html>
 <body>
-<!-- Sales Analysis --><div 
+<!-- Sales Analysis -->
      <div align="right">(<a>**Difficulty Level** -  ★★★★☆</a>)
 <details>
   <summary>Sales Analysis</summary>
