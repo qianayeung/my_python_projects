@@ -130,4 +130,4 @@ Project Link: [https://github.com/qianayeung/my_python_projects]
 <!--- **Difficulty Level** -  ★★★★☆ -->
 <!--- **Difficulty Level** -  ★★★★★ -->
 
-<a href="https://github.com/qianayeung/my-SQL-portfolio"><h2>Related<h2></a>
+<h2><a href="https://github.com/qianayeung/my-SQL-portfolio">Related</a><h2>
