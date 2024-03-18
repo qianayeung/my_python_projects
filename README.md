@@ -129,3 +129,6 @@ Project Link: [https://github.com/qianayeung/my_python_projects]
 <!--- **Difficulty Level** -  ★★★☆☆ -->
 <!--- **Difficulty Level** -  ★★★★☆ -->
 <!--- **Difficulty Level** -  ★★★★★ -->
+
+## Related
+<a href="https://github.com/qianayeung/my-SQL-portfolio">Mortisation Plan Calculator</a>
