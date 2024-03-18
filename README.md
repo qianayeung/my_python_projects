@@ -124,3 +124,7 @@ Project Link: [https://github.com/qianayeung/my_python_projects]
 <!--- **Difficulty Level** -  ★★★☆☆ -->
 <!--- **Difficulty Level** -  ★★★★☆ -->
 <!--- **Difficulty Level** -  ★★★★★ -->
+
+<h2><a href="https://github.com/qianayeung/my_python_projects/edit/Sales-Analysis/README.md">Related</a><h2><div align="left">
+     <a href="https://github.com/qianayeung/my_python_projects/blob/main/github-mark.png">
+         <img src="github-mark.png" alt="Logo" width="40" height="40">
