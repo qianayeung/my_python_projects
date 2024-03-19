@@ -90,3 +90,9 @@ print(add_numbers(1, 2, 3))  # Outputs: 6
 print(add_numbers(1, 2, 3, 4, 5))  # Outputs: 15
 
 # kwargs
+# descrip: The special syntax **kwargs in function definitions in Python is used to pass a keyworded, variable-length argument list. We use the name kwargs with the double star. The reason is that the double star allows us to pass through keyword arguments (and any number of them).
+
+# A keyword argument is where you provide a name to the variable as you pass it into the function.
+# One can think of the kwargs as being a dictionary that maps each keyword to the value that we pass alongside it. That is why when we iterate over the kwargs there doesn’t seem to be any order in which they were printed out.
+# The double asterisk (**) before kwargs signifies that any extra named or keyword arguments given to the function are collected in a dictionary named kwargs.
+# kwargs = keyword args
