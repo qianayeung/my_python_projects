@@ -1,0 +1,92 @@
+'''output variables
+string can't be combined with numbers using + operator, but can be output with comma'''
+
+'''Variables that are created outside of a function (as in all of the examples above) are known as global variables.
+Global variables can be used by everyone, both inside of functions and outside.'''
+# example 1
+x = "challenging"
+def myfunc():
+  print("Seeking a job as international graduate is " + x)
+myfunc()
+  
+''' example 2
+Insert the correct keyword to make the variable x belong to the global scope.'''
+def myfunc():
+global
+ x
+  x = "fantastic"
+
+'''example 3
+Create a variable inside a function, with the same name as the global variable'''
+x = "awesome"
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+myfunc()
+print("Python is " + x)
+
+# capitalise all the words in a string
+x = "visa jobs"
+print(" ".join([x.capitalize() for x in "visa jobs in the uk".split()]))
+
+# %s acts a placeholder for a string while %d acts as a placeholder for a number. Their associated values are passed in via a tuple using the % operator.
+
+name = 'marcog'
+number = 42
+print '%s %d' % (name, number)
+
+# for loop
+primes = [2, 3, 5, 7]
+for prime in primes:
+    print(prime)
+
+# while loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+
+# exit a loop
+count = 0
+while True:
+    print(count)
+    count += 1
+    if count >= 5:
+        break
+
+# skip the current block and proceed to the next loop iteration
+for x in range(10):
+    if x % 2 == 0:
+        continue
+    print(x)
+
+# else clause
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+else:
+    print("count value reached %d" % (count))
+
+# the sequence includes every number from 10 to 19, incremented by 1.
+for n in range(10, 20, 1):
+    print(n)
+
+# args function example
+# descrip: 
+# The special syntax *args in function definitions in Python is used to pass a variable number of arguments to a function. It is used to pass a non-keyworded, variable-length argument list. 
+
+# The syntax is to use the symbol * to take in a variable number of arguments; by convention, it is often used with the word args.
+# What *args allows you to do is take in more arguments than the number of formal arguments that you previously defined. With *args, any number of extra arguments can be tacked on to your current formal parameters (including zero extra arguments).
+# For example, we want to make a multiply function that takes any number of arguments and is able to multiply them all together. It can be done using *args.
+# Using the *, the variable that we associate with the * becomes iterable meaning you can do things like iterate over it, run some higher-order functions such as map and filter, etc.
+def add_numbers(*args):
+    total = 0
+    for number in args:
+        total += number
+    return total
+
+print(add_numbers(1, 2, 3))  # Outputs: 6
+print(add_numbers(1, 2, 3, 4, 5))  # Outputs: 15
+
+# kwargs
