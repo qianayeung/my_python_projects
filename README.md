@@ -130,5 +130,5 @@ Project Link: [https://github.com/qianayeung/my_python_projects]
          <img src="github-mark.png" alt="Logo" width="40" height="40">
      
           
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) align="right"
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) 
 
