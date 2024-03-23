@@ -128,3 +128,6 @@ Project Link: [https://github.com/qianayeung/my_python_projects]
 <h2><a href="https://github.com/qianayeung/my_python_projects/edit/Sales-Analysis/README.md">Related</a><h2><div align="left">
      <a href="https://github.com/qianayeung/my_python_projects/blob/main/github-mark.png">
          <img src="github-mark.png" alt="Logo" width="40" height="40">
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/)
+align="right">
