@@ -74,7 +74,7 @@ Thanks for checking my Python portfolio, this repository contains examples all w
 <!-- Amortisation Plan Calculator -->
      <div align="right">(<a>**Difficulty Level** -  ★★★☆☆</a>)</div>
 <details>
- <summary>Amortisation Plan Calculator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Mortisation%20Plan">Amortisation Plan Calculator</a></li>
+ <summary>Amortisation Plan Calculator</summary><li><a href="https://github.com/qianayeung/my_python_projects/blob/main/Amortisation%20Plan">Amortisation Plan Calculator</a></li>
  <ol>
  <ul>
     <li>Programme that calculates your monthly installments using the data 'Principal borrowed amount', 'Rate of interest per annum', 'Years to repay the loan'</li> 
