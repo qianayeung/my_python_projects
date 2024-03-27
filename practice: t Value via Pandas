@@ -1,0 +1,24 @@
+t Value via Pandas
+You are given a dataframe with a single column, 'var'.
+
+Calculated the t-value for the mean of ‘var’ against a null hypothesis that 
+μ=μ0
+
+Note: You do not have to calculate the p-value of the test or run the test.
+
+Example
+Input:
+
+mu0 = 1
+print(df)
+...
+   var
+0  -34
+1   40
+2  -89
+3    5
+4  -26
+
+t-value formula: t = (sample_mean - population_mean) / (sample_standard_deviation / sqrt(sample_size))
+= (((df.mean() = mean of the DataFrame df = sample mean)) - (mu0 = population mean) )/ [(df.std() = standard deviation of the DataFrame df = sample standard deviation)
+/ [(pow(df.count(), 1/2) = square root of the sample size = (number of observations))]
